@@ -39,3 +39,7 @@ your project.
 The description of various components such as DFS and rch is given below. Additionally, a brief summary
 of the related project along with relevant theorems and propositions is available below.. These topics
 are also discussed during the lectures.
+
+
+**Results**
+![alt text](https://github.com/arfatkh/KosarajusAlgorithm/blob/main/Screenshots/web-Google.png?raw=true)
